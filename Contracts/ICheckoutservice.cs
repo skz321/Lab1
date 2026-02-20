@@ -57,4 +57,9 @@ public interface ICheckoutService
     /// Postconditions: returns overdue active records.
     /// </summary>
     IReadOnlyList<CheckoutRecord> FindOverdue();
+
+    /// <summary>
+    /// Gets a borrower by id (e.g. for displaying due/overdue records).
+    /// </summary>
+    Borrower? GetBorrowerById(string borrowerId);
 }

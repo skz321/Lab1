@@ -1,0 +1,15 @@
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\bin\Debug\net8.0\ITCS_3112_Lab_1_Checkout.exe
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\bin\Debug\net8.0\ITCS_3112_Lab_1_Checkout.deps.json
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\bin\Debug\net8.0\ITCS_3112_Lab_1_Checkout.runtimeconfig.json
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\bin\Debug\net8.0\ITCS_3112_Lab_1_Checkout.dll
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\bin\Debug\net8.0\ITCS_3112_Lab_1_Checkout.pdb
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.AssemblyInfoInputs.cache
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.AssemblyInfo.cs
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.csproj.CoreCompileInputs.cache
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.sourcelink.json
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.dll
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\refint\ITCS_3112_Lab_1_Checkout.dll
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.pdb
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ITCS_3112_Lab_1_Checkout.genruntimeconfig.cache
+C:\Users\Ihate\OneDrive\Desktop\ITCS3112\obj\Debug\net8.0\ref\ITCS_3112_Lab_1_Checkout.dll

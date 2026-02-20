@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITCS_3112_Lab_1_Checkout/1.0.0": {
+        "runtime": {
+          "ITCS_3112_Lab_1_Checkout.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITCS_3112_Lab_1_Checkout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
